@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlashSaleView">
+        <attr name="imageSrc" format="reference"/>
+        <attr name="price" format="string"/>
+        <attr name="sold" format="integer"/>
+        <attr name="total" format="integer"/>
+    </declare-styleable>
+</resources>
