@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Customview30112021/app/src/main/res/drawable/bg_corner_progressbar.xml" value="0.25885416666666666" />
+        <entry key="..\:/Customview30112021/app/src/main/res/layout/bg_corner_progressbar.xml" value="0.23854166666666668" />
         <entry key="..\:/Customview30112021/app/src/main/res/layout/item_flash_sale.xml" value="0.4" />
       </map>
     </option>
